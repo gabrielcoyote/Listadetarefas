@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Principal">#b0bcad</color>
+    <color name="Primaria_Escura">#b0bcad</color>
+    <color name="Detalhes">#857a7d</color>
+
+
+    <color name="Segundaria">@color/Principal</color>
+    <color name="Segundaria_Escura">#aeb494</color>
+
+
+
+    <color name="Preto">#FF000000</color>
+    <color name="Branco">#FFFFFFFF</color>
+</resources>
